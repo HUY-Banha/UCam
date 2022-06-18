@@ -1,0 +1,239 @@
+{
+  "home": [
+    {
+      "id": 1,
+      "title": "Institute of Technology of Cambodia",
+      "place": "Phnom Penh",
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/f7/Institute_of_Technology_of_Cambodia_logo.png",
+      "detail": [
+        {
+          "image": "https://upload.wikimedia.org/wikipedia/en/f/f7/Institute_of_Technology_of_Cambodia_logo.png",
+          "title": "Institute of Technology of Cambodia",
+          "detail": "Nowadays, ITC is at the crossroads in South Eastern Asia region where several partners meet:\nFrench Cooperation,\nAgence Universitaire de la Francophonie (AUF),\nLa communauté Française de Belgique (CUD),\nAUN/SEED-net,\nGMSARN\nSchool of Internet network ect…",
+          "experian": 55,
+          "award": 100,
+          "faculty": [
+            {
+              "title": "Faculty of Electrical Engineering",
+              "department": [
+                "Department of Electrical and Energy Engineering",
+                "Department of Architectural Engineering",
+                "Department of Industrial and Mechanical Engineering",
+                "Department of Information and Communication Engineering"
+              ]
+            },
+            {
+              "title": "Faculty of Civil Engineering",
+              "department": [
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "title": "Faculty of Chemical and Food Engineering",
+              "department": [
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "title": "Faculty of Hydrology and Water Resources Engineering",
+              "department": [
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "title": "Faculty of Geo-resources and Geotechnical Engineering",
+              "department": [
+                "",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "contact": {
+            "road": "PO Box 86, Russian Conf. Blvd. Phnom Penh, Cambodia.",
+            "tel": "855 23 880 370 / 982 404",
+            "fax": "855 23 880 369",
+            "email": "info@itc.edu.kh",
+            "website": "www.itc.edu.kh"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Royal University of Phnom Penh",
+      "place": "Phnom Penh",
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/a2/RUPP_logo.PNG",
+      "detail": [
+        {
+          "image": "https://upload.wikimedia.org/wikipedia/en/a/a2/RUPP_logo.PNG",
+          "title": "Royal University of Phnom Penh",
+          "detail": "Nowadays, ITC is at the crossroads in South Eastern Asia region where several partners meet:\nFrench Cooperation,\nAgence Universitaire de la Francophonie (AUF),\nLa communauté Française de Belgique (CUD),\nAUN/SEED-net,\nGMSARN\nSchool of Internet network ect…",
+          "experian": 55,
+          "award": 100,
+          "faculty": [
+            {
+              "title": "Faculty of Electrical Engineering",
+              "department": [
+                "Department of Electrical and Energy Engineering",
+                "Department of Architectural Engineering",
+                "Department of Industrial and Mechanical Engineering",
+                "Department of Information and Communication Engineering"
+              ]
+            },
+            {
+              "title": "Faculty of Civil Engineering",
+              "department": [
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "title": "Faculty of Chemical and Food Engineering",
+              "department": [
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "title": "Faculty of Hydrology and Water Resources Engineering",
+              "department": [
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "title": "Faculty of Geo-resources and Geotechnical Engineering",
+              "department": [
+                "",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "contact": {
+            "road": "PO Box 86, Russian Conf. Blvd. Phnom Penh, Cambodia.",
+            "tel": "855 23 880 370 / 982 404",
+            "fax": "855 23 880 369",
+            "email": "info@itc.edu.kh",
+            "website": "www.itc.edu.kh"
+          }
+        }
+      ],
+      "id": 2
+    },
+    {
+      "title": "American University of Phnom Penh",
+      "place": "Phnom Penh",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/98/AUPP_Logo.png",
+      "detail": [
+        {
+          "image": "https://upload.wikimedia.org/wikipedia/en/9/98/AUPP_Logo.png",
+          "title": "American University of Phnom Penh",
+          "detail": "The American University of Phnom Penh (AUPP) is a private English-medium university founded in August 2013, with a campus in Phnom Penh, Cambodia.[1] The university currently offers four-year American dual degree programs [2] as well as stand-alone Bachelor's and MBA programs.\"Master's AUPP signed a Micro Campus agreement with University of Arizona (UA) and a Dual Degree agreement with Fort Hays State University (FHSU) at the AUPP campus in Phnom Penh, under which they will enter into a cooperative arrangement to deliver dual degree programs to AUPP students.[4] This is the first time that a U.S. degree can be completed by Cambodian students entirely in Cambodia. The programs offered by AUPP with U of A and FHSU are “dual degrees”, meaning that students who finish four years of study at AUPP will receive one bachelor's degree from AUPP and another from the American Partner University. This agreement also allows AUPP students to study abroad at UA or at FHSU in the United States for one or two semesters, depending on their choice of major.",
+          "experian": 55,
+          "award": 100,
+          "faculty": [
+            {
+              "title": "Faculty of Electrical Engineering",
+              "department": [
+                "Department of Electrical and Energy Engineering",
+                "Department of Architectural Engineering",
+                "Department of Industrial and Mechanical Engineering",
+                "Department of Information and Communication Engineering"
+              ]
+            },
+            {
+              "title": "Faculty of Civil Engineering",
+              "department": [
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "title": "Faculty of Chemical and Food Engineering",
+              "department": [
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "title": "Faculty of Hydrology and Water Resources Engineering",
+              "department": [
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "title": "Faculty of Geo-resources and Geotechnical Engineering",
+              "department": [
+                "",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "contact": {
+            "road": "PO Box 86, Russian Conf. Blvd. Phnom Penh, Cambodia.",
+            "tel": "855 23 880 370 / 982 404",
+            "fax": "855 23 880 369",
+            "email": "info@itc.edu.kh",
+            "website": "www.itc.edu.kh"
+          }
+        }
+      ],
+      "id": 3
+    },
+    {
+      "id": 4
+    }
+  ],
+  "major": [
+    {
+      "id": 1,
+      "title": "Civil Engineering",
+      "detail": {
+        "feature": [
+          "Becoming a Globally Successful. Engineer/Researcher. ...",
+          "Building a Sustainable Future Society. in Harmony with the Environment. ...",
+          "Expanding Horizons and. Increasing Expertise. ...",
+          "Encouraging Graduate Students to. Study Abroad. ...",
+          "Graduates Active in. a Wide Range of Fields."
+        ],
+        "college": [
+          "Institute of Technology of Cambodia",
+          "Norton University",
+          "National Polytechnic Institute of Cambodia",
+          "American University of Phnom Penh",
+          "National Technical Training Institute",
+          "Paragon International University",
+          "Paññāsāstra University of Cambodia",
+          "International University"
+        ]
+      }
+    }
+  ]
+}

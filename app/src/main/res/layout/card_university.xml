@@ -1,0 +1,64 @@
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginVertical="8dp"
+    android:layout_marginHorizontal="18dp"
+    android:translationZ="4dp"
+    app:cardCornerRadius="16dp"
+    app:cardElevation="0dp">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:elevation="4dp"
+        android:alpha="20"
+        android:layout_margin="8dp"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/university_logo"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="4dp"
+            android:layout_marginBottom="16dp"
+            android:elevation="2dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/itc_logo" />
+
+        <TextView
+            android:id="@+id/university_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="24dp"
+            android:layout_toEndOf="@id/university_logo"
+            android:text="@string/ITC"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/university_live"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/university_name"
+            android:layout_marginVertical="16dp"
+            android:layout_marginStart="30dp"
+            android:layout_toEndOf="@id/university_logo"
+            android:text="@string/place" />
+
+        <TextView
+            android:id="@+id/university_place"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="16dp"
+            android:layout_marginStart="8dp"
+            android:layout_below="@id/university_name"
+            android:layout_toEndOf="@id/university_live"
+            android:text="@string/phnom_penh" />
+
+
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HUY BANHA/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_list_item_1.xml" value="0.3625" />
+        <entry key="..\:/Users/HUY BANHA/Documents/UCam2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.19" />
+        <entry key="..\:/Users/HUY BANHA/Documents/UCam2/app/src/main/res/drawable/circle_shape.xml" value="0.147" />
+        <entry key="..\:/Users/HUY BANHA/Documents/UCam2/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.19" />
+        <entry key="..\:/Users/HUY BANHA/Documents/UCam2/app/src/main/res/drawable/ic_setting.xml" value="0.19" />
+        <entry key="..\:/Users/HUY BANHA/Documents/UCam2/app/src/main/res/layout/activity_department.xml" value="0.2463768115942029" />
+        <entry key="..\:/Users/HUY BANHA/Documents/UCam2/app/src/main/res/layout/activity_home_detail.xml" value="0.33" />
+        <entry key="..\:/Users/HUY BANHA/Documents/UCam2/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/HUY BANHA/Documents/UCam2/app/src/main/res/layout/activity_splash_screen.xml" value="0.33" />
+        <entry key="..\:/Users/HUY BANHA/Documents/UCam2/app/src/main/res/layout/card_major.xml" value="0.24728260869565216" />
+        <entry key="..\:/Users/HUY BANHA/Documents/UCam2/app/src/main/res/layout/card_university.xml" value="0.33" />
+        <entry key="..\:/Users/HUY BANHA/Documents/UCam2/app/src/main/res/layout/faculty_component.xml" value="0.33" />
+        <entry key="..\:/Users/HUY BANHA/Documents/UCam2/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/HUY BANHA/Documents/UCam2/app/src/main/res/layout/fragment_major.xml" value="0.25" />
+        <entry key="..\:/Users/HUY BANHA/Documents/UCam2/app/src/main/res/layout/fragment_search.xml" value="0.33" />
+        <entry key="..\:/Users/HUY BANHA/Documents/UCam2/app/src/main/res/layout/fragment_setting.xml" value="0.1" />
+        <entry key="..\:/Users/HUY BANHA/Documents/UCam2/app/src/main/res/layout/item_faculty.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/HUY BANHA/Documents/UCam2/app/src/main/res/layout/network_security_config.xml" value="0.1" />
+        <entry key="..\:/Users/HUY BANHA/Documents/UCam2/app/src/main/res/menu/navigation_bar.xml" value="0.21390374331550802" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

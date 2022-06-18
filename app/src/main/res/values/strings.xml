@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">U-Cam</string>
+    <string name="home">Home</string>
+    <string name="major">Major</string>
+    <string name="search">Search</string>
+    <string name="setting">Setting</string>
+
+    <!--    HomeFragment-->
+    <string name="ITC">វិទ្យាស្ថានបច្ចេកវិទ្យាកម្ពុជា</string>
+    <string name="RUPP">សាកលវិទ្យាល័យភូមិន្ទភ្នំពេញ</string>
+    <string name="phnom_penh">ភ្នំពេញ</string>
+    <string name="place">Location : </string>
+
+    <string name="overview">Overview</string>
+    <string name="faculty">Faculty</string>
+    <string name="contact">Contact</string>
+    <string name="yearexperience">Years of Experience</string>
+    <string name="awardshonors">Awards &#38; Honors</string>
+    <string name="university_tittle">University tittle</string>
+    <string name="description">description</string>
+    <string name="txt_year">txt_year</string>
+
+    <!--    string in department -->
+    <string name="feature">Civil Engineering Features</string>
+    <string name="college">College for Civil Engineering</string>
+
+    <!--    string in setting fragment-->
+    <string name="language">Language</string>
+    <string name="dark">Dark Mode</string>
+
+
+</resources>

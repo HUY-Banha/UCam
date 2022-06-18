@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "247972124475",
+    "project_id": "u-cam-ad97a",
+    "storage_bucket": "u-cam-ad97a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247972124475:android:8f847d4dd1e5248996091e",
+        "android_client_info": {
+          "package_name": "kh.edu.rupp.u_cam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247972124475-vtbhkcv2mvnn0gq9o7q3arsdmm3kq54g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9kYSrsy4DRc8651UrXYS1InR6dtJ68cM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247972124475-vtbhkcv2mvnn0gq9o7q3arsdmm3kq54g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
